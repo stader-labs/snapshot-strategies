@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "ethx-node-operators",
+      "params": {
+        "address": "0x30D20208d987713f46DFD34EF128Bb16C404D10f ",
+        "symbol": "SD",
+        "decimals": 18
+      }
+    },
+    "network": "1",
+    "addresses": [
+      "0xa7897E1Fc8F8c473357DA89680F18b20ed6351d3",
+      "0xaE01b7798A7feCe1532f664c2643ff1A109968bD",
+      "0x41F1Ec318e5AAF4A90AB771f58e2A3e5F95575f0",
+      "0x3037F21f608C551fbdC039900f675A9ade7Ee558",
+      "0x41F1Ec318e5AAF4A90AB771f58e2A3e5F95575f0",
+      "0x5EDB9f5aCdF87a05A166449342782a3638717F6F",
+      "0x1FEd4d9c57D207c1Eb730209EC6775826Cf919fA",
+      "0x94e14F8D7a5e8E90A46bA050f70e57a9d4bBDCFf",
+      "0xF23582BBd8802C4E523eA007f6520A154e73202C",
+      "0x5321961789907298DC3056a9efaB85A6511d87b2"
+    ],
+    "snapshot": 18326648
+  }
+]
